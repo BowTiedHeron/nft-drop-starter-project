@@ -7,7 +7,7 @@ const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
-
+//testtesttest
   const checkIfWalletIsConnected = async () => {
     try {
       const { solana } = window;
