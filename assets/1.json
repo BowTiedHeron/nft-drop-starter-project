@@ -1,0 +1,19 @@
+{
+    "name": "Artemis",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7gULTdXApqV82dNd8mFzcK67wXSEGuoYUc9cM6Chzguo",
+          "share": 100
+        }
+      ]
+    }
+  }
